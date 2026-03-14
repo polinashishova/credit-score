@@ -39,24 +39,43 @@ Features include:
 ## Project structure
 
 ├── artifacts  
+
 │   ├── figures
+
 │   │   ├── corr_matrixes.png
+
 │   │   ├── PR_curve.png
+
 │   │   ├── ROC_curve.png
+
 │   │   └── target_distribution.png
+
 │   ├── meta_info   # models info
+
 │   │   ├── clf_meta.json
+
 │   │   └── reg_meta.json
+
 │   ├── metrics
+
 │   │   ├── all_model_metrics.json   # all trained models metrics
+
 │   │   ├── thr_metrics.json         # threshold experiment metrics
+
 │   │   └── final_metrics.json       # final models test metrics
+
 │   └── models
+
 │   │   ├── clf.joblib
+
 │   │   └── reg.joblib
+
 ├── credit_score.csv   # data 
+
 ├── credit_score.ipynb  
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -64,7 +83,7 @@ Features include:
 
 Clone repository
 
-git clone <repo_url>
+git clone https://github.com/polinashishova/credit-score.git
 cd credit_scoring
 
 Install dependencies
