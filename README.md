@@ -84,7 +84,6 @@ Features include:
 Clone repository
 
 git clone https://github.com/polinashishova/credit-score.git
-cd credit_scoring
 
 Install dependencies
 
