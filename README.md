@@ -18,6 +18,16 @@ The project includes:
 - evaluation of classification and regression models
 - feature importance analysis
 
+## Tech stack
+
+- Python
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- Jupyter Notebook
+
 ## Dataset
 
 [Dataset](https://www.kaggle.com/code/lipinpappachen/classify-customer-default) contains financial information about 1000 clients.
