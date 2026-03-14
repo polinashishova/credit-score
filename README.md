@@ -220,6 +220,7 @@ Models are trained on preprocessed data without multicollinear features
 
 #### Metrics
 
+|Metrics            |Value     |
 |-------------------|----------|
 | Accuracy          | 0.455    |
 | Precision         | 0.318    |
@@ -242,6 +243,7 @@ Precision-Recall curve is more informative for imbalanced datasets.
 
 ### Regression
 
+|Metrics        |Value     |
 |---------------|----------|
 | MSE           | 716.98   |
 | RMSE          | 26.776   |
